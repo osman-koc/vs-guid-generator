@@ -26,7 +26,7 @@ Generate and insert GUIDs (uuid) effortlessly into your code using a simple shor
 
 1. Go to Tools > Options.
 2. Navigate to Environment > Keyboard.
-3. Find `extension.generateGuid` and set a custom shortcut.
+3. Find `Tools.GenerateGuid` and set a custom shortcut.
 
 ## Usage
 
