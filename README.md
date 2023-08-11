@@ -20,7 +20,7 @@ Generate and insert GUIDs (uuid) effortlessly into your code using a simple shor
 1. Launch Visual Studio.
 2. Go to Extensions > Manage Extensions.
 3. Search for "GuidGenerator" and click Install.
-- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kocdev.guidgeneratorvs)
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=kocdev.vsguidgenerate)
 
 ## Settings
 
